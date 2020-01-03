@@ -119,7 +119,6 @@ class MovementsControllerAPI extends Controller
             'wallet_id'=> 'required',
             'type'=> 'required',
             'transfer'=> 'required',
-            //'transfer_movement_id'=> 'required',
             'transfer_wallet_id'=> 'required',
             'date'=> 'required',
             'start_balance'=> 'required',
